@@ -9,8 +9,10 @@ The giver can set the time for which they want to lend the item, and they can al
 
 Hackerearth submission link - https://vithack2020.hackerearth.com/challenges/hackathon/vit-hack-3/dashboard/604325b/submission/published/gige-give-and-get/
 
-YT Link - https://youtu.be/71s4KX8bhz0
+YT Link @Version1 - https://youtu.be/71s4KX8bhz0
+
+YT Link @Version2 - https://youtu.be/CpYSiM2TeUQ
 
 Initial Wordpress Version - https://giveandget.ga/
 
-Complete Descripton - https://aadityapareek.in/GiGe-Give-and-Get-44f4058aca5444639b1fc07b67753d52
+Detailed Description - https://aadityapareek.in/GiGe-Give-and-Get-44f4058aca5444639b1fc07b67753d52
