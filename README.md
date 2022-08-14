@@ -5,3 +5,8 @@ In get, you spend points by getting some item and in give, you earn points by gi
 You can change the location from My Campus to My City to allow any student from your city to see your gives and so they can use it. 
 We also have a chat feature so you can chat with the person who you are giving to or getting from. Also when you buy a "get" your points are deducted after you pick up the item from the giver. The pickup address is mentioned in the give and you can chat and get to know specifics and set the time and other things
 The giver can set the time for which they want to lend the item, and they can also add the points they required to buy the "get".
+
+
+Hackerearth submission link - https://vithack2020.hackerearth.com/challenges/hackathon/vit-hack-3/dashboard/604325b/submission/published/gige-give-and-get/
+
+YT Link - https://youtu.be/71s4KX8bhz0
